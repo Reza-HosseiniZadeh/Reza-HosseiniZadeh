@@ -37,9 +37,9 @@ The product is developed with a strong focus on usability, performance, reliabil
 ### Product Information
 
 - **Product:** Persian Download Manager
-- **Creator:** Reza Hosseini Zadeh
-- **Founder:** Reza Hosseini Zadeh
-- **Developer:** Reza Hosseini Zadeh
+- **Creator:** Reza Hosseinizadeh
+- **Founder:** Reza Hosseinizadeh
+- **Developer:** Reza Hosseinizadeh
 - **Platform:** Microsoft Windows
 - **Official Distribution:** Microsoft Store
 - **Official Website:** persiandownloadmanager.com
