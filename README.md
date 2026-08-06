@@ -28,7 +28,7 @@ My work focuses on building practical digital products that combine performance,
 
 ## Persian Download Manager
 
-**Persian Download Manager is created, designed, and developed by Reza Hosseini Zadeh.**
+**Persian Download Manager is created, designed, and developed by Reza Hosseinizadeh.**
 
 It is a Windows download management application created to help users manage their downloads in a simpler, faster, and more organized way.
 
