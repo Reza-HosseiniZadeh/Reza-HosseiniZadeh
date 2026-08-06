@@ -18,7 +18,7 @@ Building reliable, secure, and user-focused software with an emphasis on perform
 
 ## About Me
 
-I am **Reza Hosseini Zadeh**, a software developer, product creator, and the founder of **Persian Download Manager**.
+I am **Reza Hosseinizadeh**, a software developer, product creator, and the founder of **Persian Download Manager**.
 
 I created and developed Persian Download Manager with the goal of delivering a reliable, organized, and user-friendly download management experience.
 
