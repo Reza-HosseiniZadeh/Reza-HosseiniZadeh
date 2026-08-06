@@ -1,6 +1,6 @@
 <div align="center">
 
-# Reza Hosseini Zadeh
+# Reza Hosseinizadeh
 
 ### Creator, Founder & Developer of Persian Download Manager
 
